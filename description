@@ -9,4 +9,8 @@ DAY 17 - 08
 DAY 18-08
 
     DUALIOGO PROCESS : COMPLETED .
+    Today, I completed the “Find the Largest Almost Missing Integer” problem on LeetCode using Java. I implemented a solution that handles different values of k by checking the frequency and position of elements in the given array. When k is equal to the array length,
+    the solution directly finds the largest element. For k = 1, it identifies elements that occur exactly once by counting their frequencies. For other cases, it checks the first and last elements as candidates and determines whether they appear only once in the array.
+    Finally, if valid candidates are found, the largest one is returned; otherwise, the solution returns -1. Through this problem, I practiced arrays, nested loops, frequency counting, conditional logic, ArrayList, and Collections.max() in Java, 
+    while improving my understanding of solving array-based problems with different edge cases. 💻✅
     
